@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
+/**
+ * main - Program that detect random +ve & -ve numbers
+ *
+ * Return: 0 (success)
+ */
 int main(void)
 {
 	int n;
