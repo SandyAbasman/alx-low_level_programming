@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * main - the program prints putchar 
+ * main - the program prints putchar
  *
- *Return: (0)
- * 
+ *Return:(0)
+ *
  *
  **/
 int main(void)
